@@ -1,0 +1,125 @@
+
+{
+  "settings" : {
+    "width" : 512,
+    "height" : 512,
+    "margin" : 64,
+    "line width" : 6.0
+  },
+  "figures"  : [
+    {
+      "name" : "Figure 1",
+      "label" : "Figure 1",
+      "points" : {
+        "Body" : {
+          "name" : "Body",
+          "label" : "Body",
+          "x"     : 256,
+          "y"     : 160
+        },
+        "Face" : {
+          "name" : "Face",
+          "label" : "Face",
+          "x"     : 256,
+          "y"     : 120
+        },
+        "L Eye" : {
+          "name" : "L Eye",
+          "label" : "L Eye",
+          "x"     : 271,
+          "y"     : 115
+        },
+        "R Eye" : {
+          "name" : "R Eye",
+          "label" : "R Eye",
+          "x"     : 241,
+          "y"     : 115
+        },
+        "L Eye End" : {
+          "name" : "L Eye End",
+          "label" : "L Eye",
+          "x"     : 286,
+          "y"     : 120
+        },
+        "R Eye End" : {
+          "name" : "R Eye End",
+          "label" : "R Eye",
+          "x"     : 226,
+          "y"     : 120
+        },
+        "L Leg"     : {
+          "name" : "L Leg",
+          "label" : "L Leg",
+          "x"     : 268,
+          "y"     : 260
+        },
+        "L Nee"     : {
+          "name" : "L Nee",
+          "label" : "L Leg",
+          "x"     : 278,
+          "y"     : 340
+        },
+        "L Foot"    : {
+          "name" : "L Foot",
+          "label" : "L Foot",
+          "x"     : 278,
+          "y"     : 410
+        },
+        "R Leg"     : {
+          "name" : "R Leg",
+          "label" : "R Leg",
+          "x"     : 244,
+          "y"     : 260
+        },
+        "R Nee"     : {
+          "name" : "R Nee",
+          "label" : "R Leg",
+          "x"     : 234,
+          "y"     : 340
+        },
+        "R Foot"    : {
+          "name" : "R Foot",
+          "label" : "R Foot",
+          "x"     : 234,
+          "y"     : 410
+        },
+        "L Arm"     : {
+          "name" : "L Arm",
+          "label" : "L Arm",
+          "x"     : 276,
+          "y"     : 160
+        },
+        "L Elbow"   : {
+          "name" : "L Elbow",
+          "label" : "L Elbow",
+          "x"     : 296,
+          "y"     : 210
+        },
+        "L Hand"    : {
+          "name" : "L Hand",
+          "label" : "L Hand",
+          "x"     : 296,
+          "y"     : 260
+        },
+        "R Arm"     : {
+          "name" : "R Arm",
+          "label" : "R Arm",
+          "x"     : 236,
+          "y"     : 160
+        },
+        "R Elbow"   : {
+          "name" : "R Elbow",
+          "label" : "R Elbow",
+          "x"     : 216,
+          "y"     : 210
+        },
+        "R Hand"    : {
+          "name" : "R Hand",
+          "label" : "R Hand",
+          "x"     : 216,
+          "y"     : 260
+        }
+      }
+    }
+  ]
+}

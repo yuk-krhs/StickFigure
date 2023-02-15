@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StickFigure", "StickFigure\StickFigure.csproj", "{843954E6-62DD-4A12-8F4C-FD93FF66161D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{843954E6-62DD-4A12-8F4C-FD93FF66161D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{843954E6-62DD-4A12-8F4C-FD93FF66161D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{843954E6-62DD-4A12-8F4C-FD93FF66161D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{843954E6-62DD-4A12-8F4C-FD93FF66161D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C03E03FF-AB9E-4EFF-AD51-2E3B0E172B04}
+	EndGlobalSection
+EndGlobal
