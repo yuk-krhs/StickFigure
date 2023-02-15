@@ -1,3 +1,4 @@
+![window](https://user-images.githubusercontent.com/26240680/219216728-77256a56-c6df-4d2e-bef1-4ef0adae8bd9.png)
 ﻿初期設定
 	.NET Framework 4.7.2をインストールする
 
